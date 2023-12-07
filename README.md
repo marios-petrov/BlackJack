@@ -1,8 +1,6 @@
 # Blackjack Game Using the Observer and State Patterns
 
-An interactive Blackjack game implemented in Java, showcasing the use of the Observer and State design patterns to create a responsive and well-structured application.
-
-![Blackjack UML Diagram](https://github.com/marios-petrov/BlackJack/assets/118226559/948cec76-c26d-4441-963d-793fa2fe5416)
+An interactive Blackjack game implemented in Java, showcasing the use of the Observer and State design patterns.
 
 ## Getting Started
 
@@ -37,6 +35,10 @@ A step-by-step series of examples that tell you how to get a development environ
 - The game automatically claculates and displays the scores for both the player and the dealer
 - The dealer's actions are automated based on the rules
 - Press 'Play Again' to restart the game once a round is complete
+
+### UML Diagram
+
+![Blackjack UML Diagram](https://github.com/marios-petrov/BlackJack/assets/118226559/948cec76-c26d-4441-963d-793fa2fe5416)
 
 ### Authors
 
