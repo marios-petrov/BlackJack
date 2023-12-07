@@ -1,4 +1,4 @@
-# Blackjack Fame With a Basic GUI Using the Observer and State Patterns
+# Blackjack Game Using the Observer and State Patterns
 
 
 
